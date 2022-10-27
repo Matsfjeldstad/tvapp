@@ -35,5 +35,8 @@
   "lint-staged": {
     "src/**/*.js": "eslint --fix",
     "*.{js,css,md,html}": "prettier --write"
+  },
+  "dependencies": {
+    "luxon": "^3.0.4"
   }
 }
