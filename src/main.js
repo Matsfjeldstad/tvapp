@@ -1,3 +1,4 @@
 import "./style.css";
 
-let nametesgfdgftfggdfgfdfgern = "Hreinn";
+let nametesgfdggdfgdfgftfggdfgfdfgdfgdfgern = "Hreinn";
+console.log(nametesgfdggdfgdfgftfggdfgfdfgdfgdfgern);
