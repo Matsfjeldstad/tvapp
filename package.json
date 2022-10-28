@@ -11,8 +11,7 @@
     "prettier": "npx prettier --write ./src",
     "lint": "npx eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky install",
-    "pre-commit": "lint-staged"
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
