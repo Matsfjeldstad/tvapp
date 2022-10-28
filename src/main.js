@@ -1,4 +1,4 @@
 import "./style.css";
+import channels from "../data/data.json";
 
-let test = "name";
-console.log(test);
+console.log(channels);
